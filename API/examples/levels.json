@@ -1,0 +1,47 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "title": "basic",
+      "locked": false,
+      "locations": [
+        {
+          "id": 1,
+          "title": "smallLetters",
+          "locked": false
+        },
+        {
+          "id": 2,
+          "title": "capitalLetters",
+          "locked": true
+        },
+        {
+          "id": 3,
+          "title": "punctuation",
+          "locked": true
+        },
+        {
+          "id": 4,
+          "title": "numbers",
+          "locked": true
+        },
+        {
+          "id": 5,
+          "title": "symbols",
+          "locked": true
+        },
+        {
+          "id": 6,
+          "title": "texts",
+          "locked": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "advanced",
+      "locked": true,
+      "locations": []
+    }
+  ]
+}
